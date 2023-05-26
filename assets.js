@@ -1,4 +1,4 @@
-export const menuArray = [
+export let menuArray = [
     {
         name: "Pizza",
         ingredients: ["pepperoni", "mushrom", "mozarella"],

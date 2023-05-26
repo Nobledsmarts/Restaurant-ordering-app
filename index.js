@@ -1,2 +1,2 @@
-import {menuArray} from "./assests.js";
+import {menuArray} from "./assets.js";
 console.log(menuArray)
